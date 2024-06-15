@@ -9,8 +9,8 @@ Directory organizer is a simple script that organisers all your files by their f
 > [!Note]
 > Directory-organizer will organizer the current directory if no path is passed.
 
-`python3 directory-organizer <path>`
+`python3 directory-organizer.py <path>`
 
 If the script can be executed (`chmod +x directory-organizer.py`):
 
-`./directory-organizer <path>`
+`./directory-organizer.py <path>`
