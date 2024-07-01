@@ -1,4 +1,4 @@
-# Directory Organizer
+# 🗂️ Directory Organizer
 
 *Messy downloads directory?*
 
